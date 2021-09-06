@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arcanjo423
+- 👋 Hi, I’m Gabriel Arcanjo
 - 👀 I’m interested in adquirir novos conhecimentos no mundo da programação.
 - 🌱 I’m currently learning sobre novas linguagens como html, css e javascript.
 - 💞️ I am looking for people willing to share their knowledge in programming, to be able to acquire even more experience in the area.
